@@ -1,4 +1,5 @@
-# Android Woocommerce Client
+# Android Woocommerce Client [![](https://jitpack.io/v/VigaasVentures/AndroidWoocommerClient.svg)](https://jitpack.io/#VigaasVentures/AndroidWoocommerClient)
+
 This is Android Client for making a customer app from Woocommerce.
 
 ## USAGE
